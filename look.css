@@ -1,0 +1,35 @@
+.header {
+  margin: 0;
+  text-align: center;
+   background-color: cornflowerblue;
+   background-image: linear-gradient(cornflowerblue, aliceblue);
+   opacity: .8;
+   padding-top: 50px;
+   padding-bottom: 100px;
+   font-family: sans-serif;
+   line-height: 0.7;
+ }
+
+body { background-color: aliceblue;
+       margin: 0;
+}
+.body{
+  margin-top: 0px;
+  margin-right: 120px;
+  margin-left: 120px;
+  margin-bottom: 120px;
+  background-color: aliceblue;
+  font-family: sans-serif;
+  }
+
+
+h1 {
+  color: midnightblue;
+  }
+h5 {
+   color: yellow;
+   text-shadow: 2px 2px 5px navy;
+   }
+h4 {
+   color: orange;
+   }
