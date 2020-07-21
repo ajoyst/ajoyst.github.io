@@ -3,7 +3,7 @@
   text-align: center;
    background-color: cornflowerblue;
    background-image: linear-gradient(cornflowerblue, aliceblue);
-   opacity: .8;
+   opacity: 1;
    padding-top: 50px;
    padding-bottom: 100px;
    font-family: sans-serif;
@@ -21,7 +21,7 @@ body { background-color: aliceblue;
   background-color: aliceblue;
   font-family: sans-serif;
   }
-
+p {text-align: justify;}
 
 h1 {
   color: midnightblue;
